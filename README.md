@@ -1,7 +1,7 @@
 # Ex.No:6
 # IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-## Register Number:212224040172
-## Date:11.03.2026
+## Register Number:212224220054
+## Date:14.03.2026
 ## AIM:
 To write a program to implement the back end of the compiler.
 ## ALGORITHM:
